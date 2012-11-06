@@ -4,3 +4,9 @@
 Dua/DuaAppDelegate.m
 
 Dua/DuaAppDelegate.h
+
+*.xcuserstate
+
+Dua.xcodeproj/project.pbxproj
+
+Dua.xcodeproj/project.xcworkspace/xcuserdata/khalid.xcuserdatad/UserInterfaceState.xcuserstate
